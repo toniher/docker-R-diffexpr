@@ -9,7 +9,7 @@ https://biocorecrg.github.io/PHINDaccess_RNAseq_2020/differential_expression.htm
 Build Singularity Image:
 
 
-    singularity build docker-r-diffexpr.sif docker://ghcr.io/toniher/docker-r-diffexpr:latest
+    singularity build docker-r-diffexpr.sif docker://ghcr.io/toniher/docker-r-diffexpr/docker-r-diffexpr:latest
 
 
 Use it:
