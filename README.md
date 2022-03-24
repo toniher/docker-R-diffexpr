@@ -16,4 +16,5 @@ Use it:
 
     singularity shell -e docker-r-diffexpr.sif
 
+    R
 
